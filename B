@@ -1,0 +1,11 @@
+package ALL__Java;
+
+
+public class HW1 {
+
+    public static void main(String[] args){
+
+        System.out.println(" NAME:Towhid Efty\nAddress:Dhanmondi ,Dhaka\nDepartment:CSE\nFavourite game:Pubg");
+
+    }
+}
